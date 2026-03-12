@@ -1,0 +1,36 @@
+ul{
+    list-style:none;
+}
+
+#biaoti{
+    color: #11fbb1;
+    font-size: 140px;
+    background-color: #d1cfa9;
+    text-align: center;
+    text-shadow: 6px 3px 5px #c79341;
+    margin: auto;
+}
+div.xijie{
+    text-align: center;
+    background-color: #f2f1e3;
+    width: 1150px;
+    margin:auto;
+}
+/*诗句颜色*/
+.xijie ul li{
+    color: #666666;
+    font-size: 25px;
+}
+.xijie ul{
+    padding-left: 0px;
+}
+#toupiao{
+    color: green;
+}
+p.jianjie{
+    color: #666666;
+}
+.xijie img{
+    width: 300px;
+    height: 550px;
+}
